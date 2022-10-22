@@ -1,0 +1,11 @@
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.Form1.resources
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.Properties.Resources.resources
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\TicTikToe\bin\Debug\TicTikToe.exe.config
+C:\Users\edgar\source\repos\TicTikToe\bin\Debug\TicTikToe.exe
+C:\Users\edgar\source\repos\TicTikToe\bin\Debug\TicTikToe.pdb
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.exe
+C:\Users\edgar\source\repos\TicTikToe\obj\Debug\TicTikToe.pdb
